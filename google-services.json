@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "135970632609",
+    "project_id": "browbux",
+    "storage_bucket": "browbux.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135970632609:android:0b6e0256e077d56b2bd1e0",
+        "android_client_info": {
+          "package_name": "com.Browbux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135970632609-r6264k6dr7u0tdvdkgrpfdh2hlodrdsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5QqXNF9OYAcHFITrh61aOmn8OTkoLpX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135970632609-r6264k6dr7u0tdvdkgrpfdh2hlodrdsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

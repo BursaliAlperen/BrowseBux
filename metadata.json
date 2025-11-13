@@ -1,0 +1,5 @@
+{
+  "name": "BrowseBux",
+  "description": "A minimalist mobile-style browser application where users can earn rewards by browsing and completing tasks. Features AI-powered search results and a clean, modern user interface.",
+  "requestFramePermissions": []
+}
